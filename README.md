@@ -12,9 +12,9 @@ The pre-trained models are produced by converting their original models in [CBDN
 
 # Usage
 
-Testing code for small images or image patches ("Test_Patches.m" in the original code)
+Testing code for small images or image patches ("Test_Patches.m" in the original code):
 ```
-python3 TestPatches.py
+python3 Test_Patches.py
 ```
 
 # Some Results
