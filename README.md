@@ -17,18 +17,14 @@ Testing code for small images or image patches ("Test_Patches.m" in the original
 python3 TestPatches.py
 ```
 
-# Results
+# Some Results
 <p align="left">
-  <img width="80%" height="80%" src="https://github.com/b03901165Shih/CBDNet-pytorch-inference/edit/master/imgs/DND_01.png" />
+  <img width="45%" height="45%" src="./imgs/DND_01.png" />
+  <img width="45%" height="45%" src="./imgs/DND_02.png" />
 </p>
 <p align="left">
-  <img width="80%" height="80%" src="https://github.com/b03901165Shih/CBDNet-pytorch-inference/edit/master/imgs/DND_02.png" />
-</p>
-<p align="left">
-  <img width="80%" height="80%" src="https://github.com/b03901165Shih/CBDNet-pytorch-inference/edit/master/imgs/DND_03.png" />
-</p>
-<p align="left">
-  <img width="80%" height="80%" src="https://github.com/b03901165Shih/CBDNet-pytorch-inference/edit/master/imgs/DND_04.png" />
+  <img width="45%" height="45%" src="./imgs/DND_03.png" />
+  <img width="45%" height="45%" src="./imgs/DND_04.png" />
 </p>
 
 
