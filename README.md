@@ -1,2 +1,23 @@
-# CBDNet-pytorch
-CBDNet inference model in Pytorch
+# CBDNet-pytorch-inference
+This repository contains a Pytorch inference model of CBDNet from:
+
+```
+Guo, S., Yan, Z., Zhang, K., Zuo, W., & Zhang, L.
+"Toward convolutional blind denoising of real photographs."
+In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (2019).
+```
+
+The pre-trained models are produced by converting their original models in [CBDNet](https://github.com/GuoShi28/CBDNet) using [pytorch-mcn](https://github.com/albanie/pytorch-mcn). 
+
+
+# Usage
+
+Testing code for small images or image patches ("Test_Patches.m" in the original code)
+```
+python3 TestPatches.py
+```
+
+# Results
+
+
+
